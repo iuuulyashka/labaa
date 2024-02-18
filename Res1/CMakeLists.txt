@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)      
 
-set(PROJECT_NAME Laba_1)				 		 
+set(PROJECT_NAME Nastya)				 		 
 project("${PROJECT_NAME}")
 
 
